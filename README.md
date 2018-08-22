@@ -1,0 +1,1 @@
+Proof of concept for collecting Insights data from Docker images using the overlay2 storage backend.
